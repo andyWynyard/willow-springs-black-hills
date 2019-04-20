@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Dogs make for a happier family life
-date: 2016-12-17T15:04:10.000Z
+date: 2019-02-13T15:04:10.000Z
 description: Recent studies show that a family is happier with a dog.
 tags:
   - new
