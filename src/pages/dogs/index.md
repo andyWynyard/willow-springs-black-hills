@@ -1,6 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: 'dogs-page'
+path: /dogs
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
