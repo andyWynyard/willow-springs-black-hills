@@ -1,5 +1,6 @@
 import CMS from 'netlify-cms'
 
+import ContactPagePreview from './preview-templates/ContactPagePreview'
 import AboutPagePreview from './preview-templates/AboutPagePreview'
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import DogsPagePreview from './preview-templates/DogsPagePreview'
@@ -9,3 +10,4 @@ CMS.registerPreviewTemplate('index', IndexPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('dogs', DogsPagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)
+CMS.registerPreviewTemplate('contact', ContactPagePreview)
