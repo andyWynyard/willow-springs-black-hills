@@ -29,6 +29,8 @@ intro:
       text: >-
         Jack and Jill were looking for a great dog to start their family. We had
         a litter from Woofy and Darla, and their connection was made.
+    - image: /img/img_0615.jpg
+      text: Funny dogs doing funny things
   heading: What we offer
   description: >-
     Our dogs are sent all over the world. With more than 80 years between us in
